@@ -1,0 +1,241 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+.introduction {
+    margin-bottom: 30px;
+}
+
+.profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border-style: solid;
+}
+
+.basic-info {
+    gap: 2em;
+    margin-top: 1em;
+    background-color: #312b2b11;
+    padding: 5em;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-style: solid;
+}
+
+.stylish-info {
+    gap: 2em;
+    margin-top: 1em;
+    background-color: #312b2b11;
+    padding: auto;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-style: solid;
+}
+
+ul a {
+        color: #000000;
+        margin: 0 1em;
+        text-decoration: none;
+        font-size: 1.1em;
+}
+
+ul a:hover {
+        text-decoration: underline;
+}
+    
+.more-info {
+    margin-top: 20px;
+}
+
+.more-info ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.more-info li {
+    display: inline;
+    margin: 0 15px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: left;
+    margin-top: 30px;
+}
+
+footer section {
+    margin-bottom: 20px;
+}
+
+.profile img {
+    width: auto;
+    height: 200px;
+    border-radius: 50px;
+    border-style: solid;
+ }
+
+ .prof {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+ }
+
+
+.profile .profi  {
+    background-color: #312b2b11;
+    padding: 1em;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    gap: 2em;
+    margin-top: 1.5em;
+}
+
+.grad {
+    gap: 2em;
+    margin-top: 1em;
+    background-color: #312b2b11;
+    padding: 1.5em;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+.educ {
+    text-align: center;
+}
+
+.born {
+    text-align: left;
+}
+
+.contact {
+    text-align: left;
+    margin-top: 0em;
+    background-color: #312b2b11;
+    padding: 1.5em;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-style: solid;
+}
+
+.award {
+    gap: 2em;
+    margin-top: 1em;
+    background-color: #312b2b11;
+    padding: 1.5em;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.awards {
+    text-align: left;
+}
+
+.org {
+    gap: 2em;
+    margin-top: 1em;
+    background-color: #312b2b11;
+    padding: 1.5em;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.orgs {
+    text-align: left;
+}
+.octaves {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.serenata {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+}
+
+header a {
+    color: #fffefe;
+        margin: 0 1em;
+        text-decoration: none;
+        font-size: 1.1em;
+}
+
+header a:hover {
+    text-decoration: underline;
+}
+
+.game {
+    gap: 2em;
+    margin-top: 1em;
+    background-color: #312b2b11;
+    padding: 0.5em;
+    border-radius: 8px;
+    text-align: left;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.sport {
+    gap: 2em;
+    margin-top: 1em;
+    background-color: #312b2b11;
+    padding: 0.5em;
+    border-radius: 8px;
+    text-align: left;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.reading {
+    gap: 2em;
+    margin-top: 1em;
+    background-color: #312b2b11;
+    padding: 0.5em;
+    border-radius: 8px;
+    text-align: left;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.sing {
+    gap: 2em;
+    margin-top: 1em;
+    background-color: #312b2b11;
+    padding: 0.5em;
+    border-radius: 8px;
+    text-align: left;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.skill {
+    gap: 2em;
+    margin-top: 1em;
+    background-color: #312b2b11;
+    padding: 1.5em;
+    border-radius: 8px;
+    text-align: left;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
